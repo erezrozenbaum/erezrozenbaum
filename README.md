@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erez Rozenbaum
 
-Senior Cloud & Platform Engineer | VMware | AWS | GCP | AZURE | OpenStack | Platform9 | Automation  
+Senior Cloud & Platform Engineer | VMware | AWS | GCP | Azure | OpenStack | Platform9 | Automation  
 28+ years in IT | Builder of production-grade cloud platforms
 
 I design, build, and operate **large-scale cloud and virtualization platforms**
@@ -16,9 +16,7 @@ This GitHub profile represents hands-on engineering work driven by
 ### 🚀 pf9-mngt  
 **Engineering add-on platform for Platform9 OpenStack**
 
-pf9-mngt is a production-grade **engineering add-on** built to extend
-Platform9 has operational capabilities that cloud operations teams
-Typically, they end up implementing themselves.
+pf9-mngt is a production-grade engineering add-on built to extend Platform9 with operational capabilities that cloud operations teams typically end up implementing themselves.
 
 > **Important:**  
 > pf9-mngt is **not a replacement for the Platform9 UI**.  
@@ -39,7 +37,7 @@ Typically, they end up implementing themselves.
 
 ---
 
-## 🧠 What I Built
+## 🧠 What I Build
 
 - Cloud management and operations platforms
 - OpenStack & Platform9 tooling at scale
