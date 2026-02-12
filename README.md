@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erez Rozenbaum
 
-Senior Cloud & Platform Engineer | VMware | AWS | GCP | Azure | OpenStack | Platform9 | Automation  
+Senior Cloud & Engineer Manager | VMware | AWS | GCP | Azure | OpenStack | Platform9 | Automation  
 28+ years in IT | Builder of production-grade cloud platforms
 
 I design, build, and operate **large-scale cloud and virtualization platforms**
