@@ -14,7 +14,7 @@ I build systems that solve what most platforms don’t:
 
 👉 https://github.com/erezrozenbaum/pf9-mngt
 
-A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale**.
+A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale.**
 
 ---
 
