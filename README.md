@@ -3,12 +3,6 @@
 A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale.**
 Built to solve real **Day-2 operational gaps** in Platform9 / OpenStack environments:
 
-- No persistent infrastructure inventory  
-- No restore workflows  
-- No snapshot SLA visibility  
-- No migration planning  
-- No cross-tenant operational control  
-
 👉 https://github.com/erezrozenbaum/pf9-mngt
 
 
