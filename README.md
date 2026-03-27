@@ -1,7 +1,7 @@
 # 🚀 pf9-mngt — Engineering Operations Platform
 
 A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale.**
-Built to solve real **Day-2 operational gaps** in Platform9 / OpenStack environments:
+Built to solve real Day-2 operational gaps in Platform9 / OpenStack environments at MSP scale.
 
 👉 https://github.com/erezrozenbaum/pf9-mngt
 
