@@ -3,7 +3,7 @@
 Senior Cloud Platform Engineer Focused on **real-world Day-2 operations** for MSPs and enterprise environments.
 
 I build systems that solve what most platforms don’t:
-**operational workflows, governance, migration, and scale.*
+**operational workflows, governance, migration, and scale.**
 
 ---
 
