@@ -18,6 +18,18 @@ Built to solve real **Day-2 operational gaps** in Platform9 / OpenStack environm
 
 ---
 
+## 🎥 Demo
+
+[![pf9-mngt demo](https://img.youtube.com/vi/68-LQ9ugU_E/0.jpg)](https://www.youtube.com/watch?v=68-LQ9ugU_E)
+
+Short walkthrough showing:
+- Inventory visibility  
+- Snapshot automation  
+- VM restore workflows  
+- Migration planning 
+
+---
+
 ## 👋 About Me
 
 I design and build **operational platforms for real production environments**.
@@ -121,6 +133,17 @@ It is built to **extend it** with the operational capabilities engineering teams
 - Automation  
 - Governance  
 - Migration readiness  
+
+---
+
+## 🧠 Strategic Perspective
+
+This project reflects a broader shift:
+
+From infrastructure management  
+→ to operational systems engineering
+
+Because at scale, infrastructure is the easy part.
 
 ---
 
