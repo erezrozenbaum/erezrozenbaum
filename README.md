@@ -1,9 +1,26 @@
-# 👋 Hi, I'm Erez Rozenbaum
+# 🚀 pf9-mngt — Engineering Operations Platform
 
-Senior Cloud Platform Engineer Focused on **real-world Day-2 operations** for MSPs and enterprise environments.
+Built to solve real **Day-2 operational gaps** in Platform9 / OpenStack environments:
 
-I build systems that solve what most platforms don’t:
-**operational workflows, governance, migration, and scale.**
+- No persistent infrastructure inventory  
+- No restore workflows  
+- No snapshot SLA visibility  
+- No migration planning  
+- No cross-tenant operational control  
+
+👉 https://github.com/erezrozenbaum/pf9-mngt
+
+---
+
+## 👋 About Me
+
+Cloud Platform Engineer focused on **real-world MSP and enterprise operations**.
+
+I build systems for:
+- Visibility  
+- Automation  
+- Governance  
+- Migration readiness  
 
 ---
 
@@ -116,7 +133,8 @@ It is built to **extend it** with the operational capabilities engineering teams
 
 ## 🧠 Background
 
-28+ years in IT, Engineerinag Manager, building and operating:
+28+ years in IT, Engineering Manager, building and operating:
+
 
 - Multi-tenant cloud environments  
 - MSP platforms  
@@ -128,7 +146,7 @@ Focused on turning **operational complexity into structured systems**.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/erezrozenbaum
+- GitHub: @erezrozenbaum
 📧 Email: erez.rozenbaum@gmail.com  
 📍 Location: Israel  
-   GitHub: @erezrozenbaum
+   
