@@ -1,96 +1,134 @@
 # 👋 Hi, I'm Erez Rozenbaum
 
-Senior Cloud & Engineering Manager | VMware | AWS | GCP | Azure | OpenStack | Platform9 | Automation  
-28+ years in IT | Builder of production-grade cloud platforms
+Senior Cloud Platform Engineer Focused on **real-world Day-2 operations** for MSPs and enterprise environments.
 
-I design, build, and operate **large-scale cloud and virtualization platforms**
-with a strong focus on **automation, reliability, governance, and real-world operations**.
-
-This GitHub profile represents hands-on engineering work driven by
-**production-scale challenges**, not lab experiments.
+I build systems that solve what most platforms don’t:
+**operational workflows, governance, migration, and scale.*
 
 ---
 
-## 🔥 Flagship Open Source Project
+## 🚀 Flagship Project
 
-### 🚀 pf9-mngt  
-**Engineering add-on platform for Platform9 OpenStack**
-
-pf9-mngt is a production-grade engineering add-on built to extend Platform9 with operational capabilities that cloud operations teams typically end up implementing themselves.
-
-> **Important:**  
-> pf9-mngt is **not a replacement for the Platform9 UI**.  
-> It is designed to **complement Platform9**, and both are intended to be used
-> **side by side**.
-
-**What pf9-mngt provides**
-- Full infrastructure inventory (VMs, volumes, snapshots, networks, users, tenants)
-- Snapshot policy engine & SLA compliance reporting
-- Monitoring integration (node_exporter / libvirt_exporter)
-- FastAPI backend with REST APIs
-- React + TypeScript web UI
-- PostgreSQL with historical tracking & audit
-- LDAP authentication & RBAC
-- Docker-based deployment (API, UI, DB, workers)
+### 🔧 pf9-mngt  
+**Engineering Operations Platform for Platform9 / OpenStack**
 
 👉 https://github.com/erezrozenbaum/pf9-mngt
 
----
-
-## 🧠 What I Build
-
-- Cloud management and operations platforms
-- OpenStack & Platform9 tooling at scale
-- VMware-based virtualization platforms
-- Automation-first infrastructure
-- Snapshot governance and compliance
-- Inventory, audit, and observability systems
-- Tools designed for engineers, not slides
+A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale**.
 
 ---
 
-## 🧩 Virtualization & Hybrid Cloud Focus
+## 💡 What This Platform Actually Solves
 
-Deep experience operating **VMware-based cloud platforms**
-(vSphere, vCenter, Cloud Director, Aria Operations) and leading
-**real-world transitions toward OpenStack / Platform9**.
+Built from real production gaps:
 
-Focus areas:
-- Multi-tenant virtualization platforms
-- VMware → OpenStack / Platform9 migration strategy
-- Automation of inventory, snapshots, and governance
-- Cost optimization and platform modernization
-- Preserving SLAs and operational models during platform transitions
+- No persistent infrastructure inventory  
+- No automated restore workflows  
+- No snapshot SLA visibility  
+- No structured onboarding for tenants  
+- No migration planning from VMware  
+- Limited cross-project operational visibility  
 
 ---
 
-## 🛠️ Technology Stack
+## 🧠 Core Capabilities
 
-**Languages & Frameworks**  
-Python · FastAPI · React · TypeScript · SQL  
+### 🌍 Multi-Cluster / Multi-Region Operations
+- Single control plane across environments
+- Cross-region visibility and management
+- Designed for MSP-scale operations
 
-**Cloud & Virtualization**  
-OpenStack · Platform9 · VMware vSphere · Cloud Director · AWS · Azure  
+### 📦 Inventory Intelligence
+- Full infrastructure inventory (servers, volumes, networks, etc.)
+- Historical tracking with change detection
+- PostgreSQL-backed with JSONB + delta logic
 
-**Data & Operations**  
-PostgreSQL · Docker · Prometheus · Linux · LDAP  
+### 🛡️ Snapshot Automation & Compliance
+- Policy-driven snapshot scheduling
+- Metadata-based automation (daily / monthly / retention)
+- Compliance reporting per tenant / volume
+
+### 🔁 VM Restore Orchestration
+- Structured restore workflows
+- Not just snapshot creation — actual recovery operations
+
+### 🔄 Migration Planning (VMware → Platform9/OpenStack)
+- RVTools-based ingestion
+- Capacity planning (CPU, RAM, storage)
+- Migration wave design + downtime estimation
+- Target readiness validation (flavors, networks, tenants)
+
+### 🧾 Governance, Audit & Operations
+- Full audit logs
+- RBAC with LDAP integration
+- Change tracking across infrastructure
+
+### 🧰 Runbooks & Ticketing
+- Tier1 / Tier2 operational workflows
+- Structured execution with escalation paths
+- Designed for real support teams
+
+### 📊 Metering & Reporting
+- Usage visibility
+- Foundation for chargeback / showback
+
+### 🔔 Notification System
+- Operational alerts and event-driven workflows
 
 ---
 
-## 📌 Why This GitHub Exists
+## ⚙️ Platform Architecture
 
-This GitHub is used to publish:
-- Production-grade internal tools that reached open-source quality
-- Reusable automation for cloud platforms
-- Engineering solutions built from long-term platform ownership
+- **Backend:** FastAPI
+- **Frontend:** React + TypeScript (Vite, Tailwind)
+- **Database:** PostgreSQL
+- **Auth:** LDAP + internal RBAC
+- **Deployment:** Docker & Kubernetes (both supported)
+- **CI/CD:** GitHub Actions (container build pipeline)
 
-Everything here is built with **operational reality in mind**:
-uptime, scale, governance, and maintainability.
+---
+
+## 📈 Project Scale
+
+- 450+ commits
+- 170+ API endpoints
+- 40+ database tables
+- 10+ containerized services
+- Full multi-service architecture
+
+---
+
+## 🎯 Why This Exists
+
+This is not a replacement for Platform9.
+
+It is built to **extend it** with the operational capabilities engineering teams actually need in production:
+
+- Visibility  
+- Control  
+- Automation  
+- Governance  
+- Migration readiness  
+
+
+
+---
+
+## 🧠 Background
+
+28+ years in IT, Engineerinag Manager, building and operating:
+
+- Multi-tenant cloud environments  
+- MSP platforms  
+- Infrastructure automation systems  
+
+Focused on turning **operational complexity into structured systems**.
 
 ---
 
 ## 📫 Contact
 
+- GitHub: https://github.com/erezrozenbaum
 📧 Email: erez.rozenbaum@gmail.com  
 📍 Location: Israel  
    GitHub: @erezrozenbaum
