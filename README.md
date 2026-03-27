@@ -1,5 +1,6 @@
 # 🚀 pf9-mngt — Engineering Operations Platform
 
+A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale.**
 Built to solve real **Day-2 operational gaps** in Platform9 / OpenStack environments:
 
 - No persistent infrastructure inventory  
@@ -10,28 +11,37 @@ Built to solve real **Day-2 operational gaps** in Platform9 / OpenStack environm
 
 👉 https://github.com/erezrozenbaum/pf9-mngt
 
+
+---
+
+## 📈 Project Scale
+
+- 450+ commits
+- 170+ API endpoints
+- 40+ database tables
+- 10+ containerized services
+- Full multi-service architecture
+
 ---
 
 ## 👋 About Me
 
-Cloud Platform Engineer focused on **real-world MSP and enterprise operations**.
+I design and build **operational platforms for real production environments**.
 
-I build systems for:
-- Visibility  
-- Automation  
-- Governance  
-- Migration readiness  
+Focused on:
+- Multi-tenant cloud operations (MSP scale)
+- Day-2 automation and governance
+- Migration from VMware to open platforms
+- Turning operational chaos into structured systems
+
 
 ---
 
-## 🚀 Flagship Project
+## 🎯 Who This Is For
 
-### 🔧 pf9-mngt  
-**Engineering Operations Platform for Platform9 / OpenStack**
-
-👉 https://github.com/erezrozenbaum/pf9-mngt
-
-A self-hosted operational layer designed for **engineering teams managing multi-tenant cloud environments at scale.**
+- MSP engineering teams  
+- Cloud platform teams  
+- Enterprises operating Platform9 / OpenStack at scale 
 
 ---
 
@@ -43,7 +53,7 @@ Built from real production gaps:
 - No automated restore workflows  
 - No snapshot SLA visibility  
 - No structured onboarding for tenants  
-- No migration planning from VMware  
+- No structured migration planning from VMware environments
 - Limited cross-project operational visibility  
 
 ---
@@ -103,15 +113,6 @@ Built from real production gaps:
 - **Deployment:** Docker & Kubernetes (both supported)
 - **CI/CD:** GitHub Actions (container build pipeline)
 
----
-
-## 📈 Project Scale
-
-- 450+ commits
-- 170+ API endpoints
-- 40+ database tables
-- 10+ containerized services
-- Full multi-service architecture
 
 ---
 
@@ -126,8 +127,6 @@ It is built to **extend it** with the operational capabilities engineering teams
 - Automation  
 - Governance  
 - Migration readiness  
-
-
 
 ---
 
