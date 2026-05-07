@@ -10,17 +10,17 @@ Built to solve real Day-2 operational gaps in Platform9 / OpenStack environments
 
 ## 📈 Project Scale
 
-- 450+ commits
-- 170+ API endpoints
-- 40+ database tables
-- 10+ containerized services
-- Full multi-service architecture
+- 🏗️ 18-container microservices — designed for production deployment
+- 📈 670+ commits, actively evolving — established codebase
+- ✅ 583 passing tests — comprehensive test coverage (see tests/)
+- 🔒 Kubernetes-native — Helm charts + ArgoCD GitOps
+- 🎮 Demo mode — full product experience without Platform9
 
 ---
 
 ## 🎥 Demo
 
-[![pf9-mngt demo](https://img.youtube.com/vi/68-LQ9ugU_E/0.jpg)](https://www.youtube.com/watch?v=68-LQ9ugU_E)
+[![pf9-mngt demo](https://img.youtube.com/vi/V0z5-HKVWts/0.jpg)](https://www.youtube.com/watch?v=V0z5-HKVWts)
 
 Short walkthrough showing:
 - Inventory visibility  
@@ -112,12 +112,7 @@ Built from real production gaps:
 
 ## ⚙️ Platform Architecture
 
-- **Backend:** FastAPI
-- **Frontend:** React + TypeScript (Vite, Tailwind)
-- **Database:** PostgreSQL
-- **Auth:** LDAP + internal RBAC
-- **Deployment:** Docker & Kubernetes (both supported)
-- **CI/CD:** GitHub Actions (container build pipeline)
+![PF9-MNGT Operational Control Plane](assets/Architecture.png)
 
 
 ---
